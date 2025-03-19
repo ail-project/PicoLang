@@ -7681,6 +7681,8 @@ muturraren
 muturrari
 muturreko
 nabardura
+ñabardura
+ñabardurari
 nabari
 nabaritu
 nabaritzea
@@ -10204,5 +10206,3 @@ zuzenketak
 zuzentzaile
 zuzentzea
 zuzentzen
-ñabardura
-ñabardurari
