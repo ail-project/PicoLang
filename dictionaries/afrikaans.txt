@@ -5397,6 +5397,8 @@ vloer
 vloere
 vloeroppervlak
 vloerpanele
+vloerplanke
+vloerplate
 vlokkige
 vloot
 vlug
