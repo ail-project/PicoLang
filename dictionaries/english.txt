@@ -307,6 +307,7 @@ amazon
 ambassador
 amber
 ambient
+amen
 amend
 amended
 amendment
@@ -439,6 +440,7 @@ approximate
 approximately
 apps
 apr
+april
 apt
 aqua
 aquarium
@@ -2228,6 +2230,7 @@ defects
 defence
 defend
 defendant
+defender
 defense
 defensive
 deferred
@@ -2634,6 +2637,7 @@ dude
 dudes
 due
 duel
+duh
 dui
 duke
 dumb
@@ -4106,6 +4110,7 @@ ids
 ie
 if
 ig
+ignorant
 ignore
 ignored
 ignoring
@@ -4417,8 +4422,10 @@ io
 ion
 ipod
 ips
+iris
 irl
 iron
+ironic
 irrigation
 is
 island
@@ -4899,6 +4906,7 @@ long
 longer
 longest
 longitude
+loo
 look
 looked
 looking
@@ -7243,6 +7251,7 @@ sb
 sc
 scale
 scales
+scam
 scan
 scanned
 scanner
@@ -7394,6 +7403,7 @@ separated
 separately
 separation
 sept
+september
 seq
 sequence
 sequences
@@ -8096,6 +8106,7 @@ survival
 survive
 survivor
 survivors
+sus
 suspect
 suspected
 suspended
@@ -8675,13 +8686,11 @@ u
 uc
 ugh
 ugly
-uh
 ul
 ultimate
 ultimately
 ultra
 um
-umm
 un
 unable
 unauthorized
@@ -9003,6 +9012,7 @@ waste
 wasted
 wasteland
 wasting
+wat
 watch
 watched
 watches
@@ -9252,6 +9262,7 @@ yang
 yard
 yards
 yarn
+yas
 yay
 ye
 yea
