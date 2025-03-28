@@ -255,7 +255,6 @@ aguas
 aguja
 agujero
 agujeros
-ah
 ahi
 ahí
 ahogado
@@ -1417,7 +1416,6 @@ chocolate
 chofer
 choque
 chupa
-cia
 cicatrices
 cicatriz
 ciclo
@@ -3971,7 +3969,6 @@ gusto
 gustó
 gym
 h
-ha
 habéis
 haber
 haberla
@@ -5392,7 +5389,6 @@ misteriosa
 misterioso
 mitad
 mito
-mm
 mochila
 mocoso
 moda

@@ -24,7 +24,6 @@ agenta
 agentka
 agentko
 agentów
-aha
 aj
 akademii
 akcent
@@ -1628,9 +1627,6 @@ historie
 historię
 historii
 hiszpanii
-hm
-hmm
-hobby
 honor
 honoru
 hot
@@ -5645,6 +5641,7 @@ schowaj
 ścianę
 ścianie
 ściany
+ścieżka
 ścieżkę
 ścieżki
 ściga
@@ -6693,8 +6690,6 @@ toczy
 tom
 ton
 tony
-top
-tor
 torba
 torbę
 torbie

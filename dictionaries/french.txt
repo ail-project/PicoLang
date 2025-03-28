@@ -192,7 +192,6 @@ agressif
 agressive
 agricole
 agricoles
-ah
 ai
 aidant
 aide
@@ -2023,7 +2022,6 @@ davantage
 d'avantages
 d'avenir
 davi
-David
 d'avion
 d'avions
 d'avis
@@ -3643,7 +3641,6 @@ franchi
 franchir
 franchise
 franchisés
-Francis
 francophone
 francophones
 francs
@@ -3653,7 +3650,6 @@ frappe
 frappé
 frapper
 fraude
-Frédéric
 frein
 freinage
 freiner
@@ -3859,7 +3855,6 @@ Gustave
 Guy
 h
 H
-ha
 habitant
 habitants
 habitation

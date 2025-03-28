@@ -169,7 +169,6 @@ aglio
 agnello
 ago
 agosto
-ah
 ahi
 ahia
 ai
@@ -408,12 +407,12 @@ anzi
 anziana
 anziani
 anziano
+ape
 aperta
 aperte
 aperti
 aperto
 apertura
-api
 apocalisse
 appare
 apparecchio
@@ -1544,7 +1543,6 @@ cliente
 clienti
 clima
 clinica
-clown
 club
 cm
 coach
@@ -3603,11 +3601,9 @@ guscio
 gusti
 gusto
 h
-ha
 hai
 hamburger
 hanno
-ho
 hobby
 hockey
 home
@@ -7940,7 +7936,6 @@ testimoniare
 testo
 tette
 tetto
-the
 ti
 tic
 tiene
@@ -8281,7 +8276,6 @@ urlando
 urlare
 urlato
 urlo
-usa
 usando
 usano
 usare

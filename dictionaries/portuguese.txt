@@ -279,7 +279,6 @@ agüento
 águia
 agulha
 agulhas
-ah
 ai
 aí
 ainda
@@ -4200,7 +4199,6 @@ guia
 guiar
 guitarra
 h
-ha
 há
 hã
 habilidade
@@ -4252,8 +4250,6 @@ historia
 história
 histórias
 histórico
-hm
-hmm
 hobby
 hoje
 home
@@ -5388,7 +5384,6 @@ misterioso
 mistura
 misturar
 mito
-mmm
 mo
 moça
 moças

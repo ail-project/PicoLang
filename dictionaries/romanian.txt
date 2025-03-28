@@ -1,4 +1,3 @@
-
 a
 ă
 â
@@ -232,8 +231,6 @@ agitată
 aglomerat
 agresiune
 agresiv
-ah
-aha
 ai
 aia
 ăia
@@ -2865,7 +2862,6 @@ hemoragie
 henry
 hercule
 heroină
-ho
 hochei
 hol
 homo

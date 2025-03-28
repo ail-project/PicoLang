@@ -54,7 +54,6 @@ good
 gorvinik
 got
 gps
-ha
 had
 has
 have
@@ -145,7 +144,6 @@ talk
 taк
 tell
 that
-the
 them
 then
 there

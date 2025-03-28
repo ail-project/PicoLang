@@ -51,7 +51,6 @@ aggressiv
 ägnat
 ägodelar
 ägt
-ah
 åh
 äh
 aids
@@ -2743,7 +2742,6 @@ gym
 gymmet
 gymnasiet
 h
-ha
 häck
 hacka
 hackade
@@ -3031,7 +3029,6 @@ hjärtattack
 hjärtinfarkt
 hjul
 hjulet
-ho
 hobby
 hockey
 hög
@@ -4767,7 +4764,6 @@ mjölken
 mjuk
 mjuka
 mjukt
-mm
 mobil
 mobilen
 mobiler

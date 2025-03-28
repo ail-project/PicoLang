@@ -35,7 +35,6 @@ agenda
 agensi
 agresif
 agung
-ah
 ahli
 ai
 aib
@@ -166,7 +165,6 @@ apartemen
 apartemenmu
 apartemennya
 apel
-api
 apinya
 aplikasi
 arah
@@ -301,7 +299,6 @@ balet
 balik
 balkon
 balon
-bam
 ban
 banci
 bandar
@@ -1702,7 +1699,6 @@ guru
 gurun
 gw
 h
-ha
 habis
 habiskan
 had
@@ -2884,7 +2880,6 @@ logis
 lokal
 lokasi
 loker
-loki
 lolos
 lomba
 lompat
@@ -4331,7 +4326,6 @@ nafas
 nafkah
 nafsu
 naga
-nah
 naik
 naiklah
 nak
@@ -4403,7 +4397,6 @@ obatnya
 objek
 obor
 obsesi
-oke
 oksigen
 olah
 olahraga

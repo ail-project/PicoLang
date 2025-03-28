@@ -266,7 +266,6 @@ agentschap
 agressie
 agressief
 agressieve
-ah
 ai
 aids
 air
@@ -360,7 +359,6 @@ appartement
 appel
 appels
 applaus
-april
 arbeiders
 archief
 architect
@@ -1562,8 +1560,6 @@ donker
 donkere
 donnie
 donor
-donut
-donuts
 dood
 doodde
 doodgaan
@@ -2053,7 +2049,6 @@ frisdrank
 frisse
 front
 fruit
-fucking
 functie
 functies
 functioneren
@@ -2707,7 +2702,6 @@ gunstig
 guy
 gym
 h
-ha
 haai
 haaien
 haak
@@ -2927,7 +2921,6 @@ historisch
 historische
 hit
 hitte
-hm
 hobby
 hockey
 hoe
@@ -3949,8 +3942,6 @@ lopende
 loper
 lori
 los
-loser
-losers
 losgeld
 loslaten
 losmaken
@@ -4557,8 +4548,6 @@ ogen
 ogenblik
 ogenblikje
 oh
-oke
-oké
 oktober
 olie
 olifant
@@ -6372,7 +6361,6 @@ telefoonnummer
 telefoons
 telefoontje
 telefoontjes
-telegram
 teleur
 teleurgesteld
 teleurstellen
@@ -7870,7 +7858,6 @@ wrok
 wurgen
 x
 y
-yes
 yo
 yoga
 yoghurt

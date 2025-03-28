@@ -211,7 +211,6 @@ aɣrib
 aɣrum
 aɣrum-is
 aɣyul
-aha
 ahad
 ahaggar
 ahat
@@ -1517,7 +1516,6 @@ fkan-t
 fken
 fkiɣ
 flan
-floyd
 fontaine
 format
 franca
@@ -3067,7 +3065,6 @@ meɣres
 mehenni
 meḥsub
 mekka
-melbourne
 mellal
 mellal-xnifra
 mellul
@@ -3197,7 +3194,6 @@ muritanya
 muriṭanya
 musa
 musku
-mustafa
 musṭafa
 mustapha
 muzambik
@@ -3542,7 +3538,6 @@ san
 sanda
 sani
 santa
-santiago
 sarameɣ
 sarkozy
 sat
@@ -4775,9 +4770,7 @@ tɣiwant-agi
 tɣiwant-nni
 tɣuri
 tɣuri
-the
 tḥemmel
-thomas
 thrones
 tḥudd
 tḥudd-it-id
@@ -4921,7 +4914,6 @@ timaynutin
 timaziɣin
 timdewwert
 timdinin
-time
 timecṭaḥ
 timecṭuḥin
 timeddursa
@@ -4940,7 +4932,6 @@ times
 timeslayin
 timeslayin-a
 timest
-timestamp
 timettanin
 timetti
 timettiyin
@@ -6004,8 +5995,6 @@ warrazen
 warsnis
 wartilan
 warzazat
-was
-washington
 wasif
 wasif-nni
 wasmi
@@ -6586,7 +6575,6 @@ yerwel
 yerza
 yerzan
 yerẓan
-yes
 yesawalen
 yesbedd-d
 yesdari

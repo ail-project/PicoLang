@@ -23,7 +23,6 @@ agentura
 agentury
 agenty
 agresivní
-aha
 ahoj
 ahojky
 aids
@@ -1442,7 +1441,6 @@ hluchý
 hluk
 hlupák
 hlupáku
-hm
 hmyz
 hned
 hnědé
@@ -1455,7 +1453,6 @@ hnus
 hnusná
 hnusný
 hnutí
-ho
 hoch
 hochu
 hoď

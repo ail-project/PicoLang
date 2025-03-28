@@ -169,7 +169,6 @@ agenten
 agenter
 aggressiv
 agt
-ah
 aidrig
 aids
 aktion
@@ -2438,7 +2437,6 @@ grib
 gribe
 griber
 grim
-grin
 grine
 grinede
 griner
@@ -2486,7 +2484,6 @@ guvernør
 guvernøren
 gyden
 gymnasiet
-ha
 håb
 håbe
 håbede
@@ -2754,7 +2751,7 @@ hjort
 hjul
 hjulet
 hjulpet
-ho
+hø
 hobby
 høflig
 høj
@@ -4338,7 +4335,6 @@ musik
 musiker
 musikken
 muskler
-my
 myndigheder
 myndighederne
 myrde
@@ -6150,7 +6146,6 @@ spar
 spare
 sparer
 sparet
-spark
 sparke
 sparkede
 sparker
@@ -6729,7 +6724,6 @@ testede
 testen
 tester
 testet
-the
 thi
 ti
 tid

@@ -2548,7 +2548,6 @@ guvernør
 guvernøren
 gylne
 h
-ha
 hadde
 hade
 hæ
@@ -2826,8 +2825,6 @@ hjul
 hjulene
 hjulet
 hjulpet
-ho
-hobby
 hode
 hodene
 hodepine
@@ -4480,7 +4477,6 @@ misunnelig
 misunner
 mit
 mitt
-mm
 mo
 mobil
 mobilen

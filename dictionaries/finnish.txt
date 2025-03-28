@@ -39,7 +39,6 @@ agentin
 agentit
 agentteja
 agentti
-ah
 ahaa
 ai
 äiä
@@ -408,7 +407,6 @@ aseta
 asetta
 asettaa
 asettua
-asia
 asiaa
 asiaan
 asiakas
@@ -895,7 +893,6 @@ g
 gloria
 graham
 h
-ha
 haamu
 haastaa
 haastattelu
@@ -1262,7 +1259,6 @@ hiukseni
 hiuksesi
 hiukset
 hiuksia
-hmm
 hoida
 hoidamme
 hoidan

@@ -33,7 +33,6 @@ agjentë
 agjentët
 agjenti
 agjentin
-ah
 aheng
 ai
 ajër
@@ -1445,7 +1444,6 @@ guri
 gusht
 guvernator
 guximshëm
-ha
 haja
 hajde
 hajdut
