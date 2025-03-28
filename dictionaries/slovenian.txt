@@ -474,7 +474,6 @@ debeli
 deček
 dečka
 dečko
-ded
 dedek
 dedka
 definitivno
@@ -5837,7 +5836,7 @@ stvar
 stvareh
 stvari
 stvarmi
-suh
+suho
 suha
 suknjič
 sumljivo

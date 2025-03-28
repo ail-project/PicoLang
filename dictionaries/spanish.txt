@@ -946,7 +946,6 @@ billetera
 billetes
 billones
 bingo
-bla
 blanca
 blancas
 blanco
@@ -3605,7 +3604,6 @@ fenomenal
 fenómeno
 feo
 feria
-fernando
 feroz
 ferrocarril
 festival
@@ -8440,7 +8438,6 @@ tuyos
 tv
 u
 ubicación
-uh
 ultima
 última
 últimamente

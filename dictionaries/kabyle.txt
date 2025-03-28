@@ -950,7 +950,6 @@ birmanya
 birut
 bisekstil
 bitt
-bla
 blaise
 bleu
 blida
@@ -1051,7 +1050,6 @@ cfan
 cfiɣ
 cfu
 chaker
-cia
 cikagu
 cili
 cilmun
@@ -5761,7 +5759,6 @@ urugway
 uṛuman
 urumi
 uṛumi
-usa
 usaḍuf
 usagen
 usali
@@ -5840,7 +5837,6 @@ usunen
 ususru
 uswir
 utaram
-utc
 utilifun
 utiliskup
 utrim

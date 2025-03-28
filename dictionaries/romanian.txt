@@ -3886,8 +3886,8 @@ materie
 matur
 mătuşa
 mătuşă
-maxim
 maximă
+maximal
 maya
 me
 mea
@@ -6626,7 +6626,6 @@ ucis
 ucisă
 ucişi
 ud
-uh
 uimit
 uimitoare
 uimitor

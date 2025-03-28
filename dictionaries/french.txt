@@ -3010,6 +3010,7 @@ envoyés
 équilibre
 équilibré
 équilibrée
+equipe
 équipe
 équipé
 équipée
@@ -7613,7 +7614,6 @@ sein
 seize
 séjour
 séjours
-sek
 sel
 sélection
 sélectionné
