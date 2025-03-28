@@ -259,7 +259,6 @@ aguantar
 aguanteu
 agulla
 agulles
-ah
 ahí
 ahir
 ai
@@ -3834,7 +3833,6 @@ guix
 gust
 gustos
 h
-ha
 habilitat
 habilitats
 hàbit
@@ -3906,7 +3904,6 @@ història
 històric
 històries
 hivern
-ho
 hola
 holanda
 holandès
@@ -4462,7 +4459,6 @@ mà
 mac
 maca
 maco
-macos
 madur
 madura
 màfia
@@ -5843,7 +5839,6 @@ poguéssim
 poguessin
 poguessis
 pogut
-pol
 policia
 policial
 policials

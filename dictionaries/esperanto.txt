@@ -103,9 +103,7 @@ agrablan
 agrablas
 agrable
 agu
-ah
 aĥ
-aha
 aidoson
 aj
 ajn
@@ -2759,7 +2757,6 @@ gvidu
 gxi
 gxin
 h
-ha
 haki
 halo
 halon
@@ -2864,8 +2861,6 @@ historiaj
 historian
 historio
 historion
-hm
-ho
 hodiaŭ
 hodiaŭa
 hodiaŭan
@@ -7620,7 +7615,6 @@ suĉadas
 suĉas
 suda
 sude
-sudo
 ŝuetojn
 ŝufaristo
 suferas

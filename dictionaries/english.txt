@@ -220,7 +220,6 @@ agreements
 agrees
 agricultural
 agriculture
-ah
 ahead
 ai
 aid
@@ -3148,6 +3147,7 @@ farmer
 farmers
 farming
 farms
+fart
 fascinating
 fashion
 fast
@@ -3403,6 +3403,7 @@ forty
 forum
 forums
 forward
+forwarded
 forwarding
 fossil
 foster
@@ -3765,15 +3766,12 @@ guys
 gym
 gzip
 h
-ha
 habitat
 habits
 hack
 hacker
 had
 hadn't
-haha
-hahaha
 hair
 hairy
 half
@@ -3781,7 +3779,6 @@ hall
 halo
 ham
 hamburg
-hamilton
 hammer
 hand
 handbags
@@ -3957,9 +3954,6 @@ hits
 hitting
 hive
 hk
-hmm
-hmmm
-ho
 hobbies
 hobby
 hockey
@@ -5294,7 +5288,6 @@ mixed
 mixer
 mixing
 mixture
-mm
 mn
 mo
 mobile
@@ -5437,7 +5430,6 @@ mystery
 myth
 n
 na
-nah
 nail
 nails
 naked
@@ -5717,8 +5709,7 @@ only
 ons
 onto
 oo
-ooo
-oooh
+ook
 oop
 oops
 op
@@ -6480,6 +6471,7 @@ promotional
 promotions
 prompt
 promptly
+pronounced
 proof
 proper
 properly
@@ -7039,6 +7031,7 @@ return
 returned
 returning
 returns
+retweeted
 reunion
 rev
 reveal

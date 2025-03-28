@@ -1298,7 +1298,6 @@ gương
 gượng
 gút
 h
-ha
 há
 hà
 hả
@@ -1406,7 +1405,6 @@ hỉnh
 hít
 hiu
 hñc
-ho
 hò
 hô
 hố

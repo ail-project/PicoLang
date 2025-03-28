@@ -878,7 +878,6 @@ hommikust
 hommikut
 hommikuti
 homseni
-hoo
 hooaeg
 hooaja
 hood

@@ -68,9 +68,7 @@ achtet
 adoptiert
 aggressiv
 Ägypten
-ah
 äh
-aha
 ähm
 ähnelt
 ahnen
@@ -2170,7 +2168,6 @@ guter
 gutes
 gutmachen
 h
-ha
 hä
 haar
 haare
@@ -3088,7 +3085,6 @@ nachzudenken
 nackt
 nackte
 nagel
-nah
 nahe
 nähe
 näher
