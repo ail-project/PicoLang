@@ -4475,7 +4475,6 @@ interior
 interna
 internacional
 internado
-internet
 interno
 internos
 interrogatorio

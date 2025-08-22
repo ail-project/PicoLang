@@ -1561,6 +1561,7 @@ clothing
 cloud
 clouds
 cloudy
+clown
 club
 clubs
 clue
