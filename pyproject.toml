@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "picolang"
+version = "0.5.0"
+description = "Simple, fast dictionary-based language detector"
+readme = "README.md"
+license = "AGPL-3.0-or-later"
+authors = [
+  { name = "Aurelien Thirion", email = "aurelien.thirion@circl.lu" }
+]
+maintainers = [
+  { name = "Aurelien Thirion", email = "aurelien.thirion@circl.lu" }
+]
+classifiers = [
+  "Operating System :: MacOS :: MacOS X",
+  "Operating System :: Microsoft :: Windows",
+  "Operating System :: POSIX :: Linux",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Intended Audience :: Developers",
+  "Topic :: Text Processing :: Linguistic",
+]
+
+[project.urls]
+Homepage = "https://github.com/ail-project/PicoLang"
+Repository = "https://github.com/ail-project/PicoLang"
+
+[tool.setuptools]
+packages = ["picolang", "picolang.data"]
+
+[tool.setuptools.package-data]
+"picolang.data" = ["words.pickle"]
