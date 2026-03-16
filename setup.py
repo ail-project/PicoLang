@@ -1,35 +1,5 @@
-import io
-import platform
-import re
-import setuptools
+from setuptools import setup
 
-with io.open("README.md", encoding="utf-8") as fr:
-    long_description = fr.read()
 
 if __name__ == "__main__":
-    setuptools.setup(
-        name="picoLang",
-        version="0.5.0",
-        maintainer="Aurelien Thirion",
-        maintainer_email="aurelien.thirion@circl.lu",
-        description="Simple, fast dictionary-based language detector",
-        long_description=long_description,
-        long_description_content_type="text/markdown",
-        license="AGPLv3",
-        url="https://github.com/ail-project/PicoLang",
-        classifiers=[
-            "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
-            "Operating System :: MacOS :: MacOS X",
-            "Operating System :: Microsoft :: Windows",
-            "Operating System :: POSIX :: Linux",
-            "Programming Language :: Python :: 3",
-            "Programming Language :: Python :: 3.4",
-            "Programming Language :: Python :: 3.5",
-            "Programming Language :: Python :: 3.6",
-            "Programming Language :: Python :: 3.7",
-            "Intended Audience :: Developers",
-            "Topic :: Text Processing :: Linguistic",
-        ],
-        packages=["picolang"],
-        package_data={"picolang": ["data/words.pickle"]}
-    )
+    setup()
