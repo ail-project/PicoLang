@@ -22,7 +22,7 @@ print(detect("El gato doméstico")) # ('es', 0.45)
 print(detect("ciao", languages=["de", "ro"])) # ('de', 0.45)
 ```
 
-`detect(text, languages=[])` -> tuple (`iso_639_1`, `confidence`)
+`detect(text, languages=[])` -> tuple (`IETF BCP 47 language tag`, `confidence`)
 
 ## Supported Languages
 
