@@ -1,4 +1,4 @@
-from lexilang.detector import detect
+from picolang.detector import detect
 
 print(detect("bonjour"))   # ('fr', 0.45)
 print(detect("bonjour!"))  # ('fr', 0.45)

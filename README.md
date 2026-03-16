@@ -1,17 +1,17 @@
-# LexiLang
+# PicoLang
 
 Simple, fast dictionary-based language detector for short texts.
 
 ## Installation
 
 ```bash
-pip install lexilang
+pip install picolang
 ```
 
 ## Usage
 
 ```python
-from lexilang.detector import detect
+from picolang.detector import detect
 
 print(detect("bonjour")) # ('fr', 0.45)
 print(detect("学中文")) # ('zh', 0.45)

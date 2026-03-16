@@ -8,17 +8,15 @@ with io.open("README.md", encoding="utf-8") as fr:
 
 if __name__ == "__main__":
     setuptools.setup(
-        name="LexiLang",
-        version="1.0.4",
-        author="Piero Toffanin",
-        author_email="pt@masseranolabs.com",
-        maintainer="Piero Toffanin",
-        maintainer_email="pt@masseranolabs.com",
+        name="picoLang",
+        version="0.5.0",
+        maintainer="Aurelien Thirion",
+        maintainer_email="aurelien.thirion@circl.lu",
         description="Simple, fast dictionary-based language detector",
         long_description=long_description,
         long_description_content_type="text/markdown",
         license="AGPLv3",
-        url="https://github.com/LibreTranslate/LexiLang",
+        url="https://github.com/ail-project/PicoLang",
         classifiers=[
             "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
             "Operating System :: MacOS :: MacOS X",
@@ -32,6 +30,6 @@ if __name__ == "__main__":
             "Intended Audience :: Developers",
             "Topic :: Text Processing :: Linguistic",
         ],
-        packages=["lexilang"],
-        package_data={"lexilang": ["data/words.pickle"]}
+        packages=["picolang"],
+        package_data={"picolang": ["data/words.pickle"]}
     )
