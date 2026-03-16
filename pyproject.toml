@@ -7,7 +7,7 @@ name = "picolang"
 version = "0.5.0"
 description = "Simple, fast dictionary-based language detector"
 readme = "README.md"
-license = "AGPL-3.0"
+license = "AGPL-3.0-only"
 authors = [
   { name = "Aurelien Thirion", email = "aurelien.thirion@circl.lu" },
   { name = "Piero Toffanin" },
