@@ -75,25 +75,7 @@ print(detect("ciao", languages=["de", "ro"])) # ('de', 0.45)
 
 ## Limitations
 
-This detector was designed for handling small texts (< 20 characters). It will probably not work reliably for longer text sequences. As it relies on dictionaries, if a word is missing or mispelled, the detection will fail.
-
-
-## Publishing (uv)
-
-```bash
-# Build artifacts
-uv build
-
-# Upload to PyPI (token recommended)
-export UV_PUBLISH_TOKEN="pypi-..."
-uv publish
-```
-
-To test first on TestPyPI:
-
-```bash
-uv publish --publish-url https://test.pypi.org/legacy/ --check-url https://test.pypi.org/simple/
-```
+This detector was designed for handling small texts (< 150 characters). It will probably not work reliably for longer text sequences. As it relies on dictionaries, if a word is missing or misspelled, the detection will fail.
 
 ## Contributing
 

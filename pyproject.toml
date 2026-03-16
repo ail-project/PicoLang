@@ -7,9 +7,10 @@ name = "picolang"
 version = "0.5.0"
 description = "Simple, fast dictionary-based language detector"
 readme = "README.md"
-license = "AGPL-3.0-or-later"
+license = "AGPL-3.0"
 authors = [
-  { name = "Aurelien Thirion", email = "aurelien.thirion@circl.lu" }
+  { name = "Aurelien Thirion", email = "aurelien.thirion@circl.lu" },
+  { name = "Piero Toffanin" },
 ]
 maintainers = [
   { name = "Aurelien Thirion", email = "aurelien.thirion@circl.lu" }
@@ -29,7 +30,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ail-project/PicoLang"
+Homepage = "https://ail-project.org/"
 Repository = "https://github.com/ail-project/PicoLang"
 
 [tool.setuptools]
