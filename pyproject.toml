@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "picolang"
-version = "0.5.0"
+version = "1.0.0"
 description = "Simple, fast dictionary-based language detector"
 readme = "README.md"
 license = "AGPL-3.0-only"

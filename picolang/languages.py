@@ -3,6 +3,7 @@ def get_supported_languages():
         'afrikaans': 'af', 
         'albanian': 'sq', 
         'arabic': 'ar',
+        'armenian': 'hy',
         'basque': 'eu',
         'bengali': 'bn', 
         'bulgarian': 'bg', 
